@@ -520,3 +520,7 @@ baseline.json
 
 # Husky
 .husky/_
+
+#SQLite
+*.db-shm
+*.db-wal
